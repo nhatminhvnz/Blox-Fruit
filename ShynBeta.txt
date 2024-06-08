@@ -30,7 +30,7 @@ _G.YouTube = "https://www.youtube.com/@nhatminhzl"
 _G.Facebook = "https://www.facebook.com/profile.php?id=100084472111241"
 -- phá nát source l hicu
 notis = require(game.ReplicatedStorage:WaitForChild("Notification"))
-notis.new("<Color=Yellow>Script Testing  \n<Color=/>".. _G.ThongBao):Display()
+notis.new("<Color=Yellow>Minh đz :)) \n<Color=/>".. _G.ThongBao):Display()
 _G.SafeFarm = true
 assert(getrawmetatable)
     grm = getrawmetatable(game)
@@ -4492,7 +4492,6 @@ end)
 
 TienTiny:AddSeperator("🧑‍💻 Developer 🛠️")
 TienTiny:AddLabel("Owner: Nhật Minh")
-TienTiny:AddLabel("Censor: Trịnh Vũ Sang
 TienTiny:AddLabel("Testing: Hxy Hao")
 TienTiny:AddLabel("Testing: Bảo Thắng")
 TienTiny:AddSeperator("Social Network")
