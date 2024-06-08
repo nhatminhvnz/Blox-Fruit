@@ -4491,8 +4491,8 @@ spawn(function()
 end)
 
 TienTiny:AddSeperator("🧑‍💻 Developer 🛠️")
-TienTiny:AddLabel("Owner: Nhật Minh
-Testing: Hxy Hao")
+TienTiny:AddLabel("Owner: Nhật Minh")
+TienTiny:AddLabel("Testing: Hxy Hao")
 TienTiny:AddSeperator("Social Network")
 TienTiny:AddButton('Discord Sever', function()
 setclipboard(_G.Discord)
