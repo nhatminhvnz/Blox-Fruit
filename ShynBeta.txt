@@ -4460,7 +4460,7 @@ end)
 --------------------------------------------------------------------------------------------------------
 local Library = Update:Window("World Hub","BLOX FRUIT",Enum.KeyCode.RightControl);
 --------------------------------------------------------------------------------------------------------
-local TienTiny = Library:AddTab("Information","rbxassetid://17768993913")
+local TienTiny = Library:AddTab("Information","rbxassetid://10723415903")
 local Settings = Library:AddTab("Settings Farming","rbxassetid://10734950309")
 local Main = Library:AddTab("General","rbxassetid://10723407389")
 local M = Library:AddTab("Item & Quest","rbxassetid://10734975692")
@@ -4491,7 +4491,8 @@ spawn(function()
 end)
 
 TienTiny:AddSeperator("🧑‍💻 Developer 🛠️")
-TienTiny:AddLabel("Owner: Nhật Minh")
+TienTiny:AddLabel("Owner: Nhật Minh
+Testing: Hxy Hao")
 TienTiny:AddSeperator("Social Network")
 TienTiny:AddButton('Discord Sever', function()
 setclipboard(_G.Discord)
