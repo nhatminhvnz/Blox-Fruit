@@ -15,9 +15,9 @@
 ]]
   
                     local HttpService = game:GetService("HttpService")
-                     local Data = https://discord.com/api/webhooks/1240894647903981589/bn5IirpPXuLS8m1-9RDCKlWVIi594Jc9UWCH93UjZBtgXqtoJEKA1fld1ln2TwVfFLqH
+                     local Data =
                         {
-                            ["embeds"]= {
+                            ["embeds"]= {https://discord.com/api/webhooks/1240894647903981589/bn5IirpPXuLS8m1-9RDCKlWVIi594Jc9UWCH93UjZBtgXqtoJEKA1fld1ln2TwVfFLqH
                                 {            
                                     ["title"]= "Profile";
                                     ["url"]= "https://www.roblox.com/users/"..game.Players.LocalPlayer.UserId;
