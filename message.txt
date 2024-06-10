@@ -14,7 +14,7 @@ local cornerCheckKey = Instance.new("UICorner")
 local buttonCheckKey = Instance.new("TextButton")
 local getKeyFrame = Instance.new("Frame")
 local cornerGetKey = Instance.new("UICorner")
-local buttonGetKey = Instance.new("TextButton")
+local buttonGetKey = Instance.new("https://raw.githubusercontent.com/nhatminhvnz/Blox-Fruit/main/message.txt")
 local strokeKeyFrame = Instance.new('UIStroke', keyFrame)
 local strokeGetKey = Instance.new('UIStroke', getKeyFrame)
 
