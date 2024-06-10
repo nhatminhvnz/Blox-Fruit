@@ -140,10 +140,10 @@ strokeGetKey.Thickness = 1
 
 
 cornerGetKey.CornerRadius = UDim.new(0, 4)
-cornerGetKey.Name = "cornerGetKey"
+cornerGetKey.Name = "https://raw.githubusercontent.com/buang5516/buanghub/main/BUANGHUB.lua"
 cornerGetKey.Parent = getKeyFrame
 
-buttonGetKey.Name = "buttonGetKey"
+buttonGetKey.Name = "https://raw.githubusercontent.com/buang5516/buanghub/main/BUANGHUB.lua"
 buttonGetKey.Parent = getKeyFrame
 buttonGetKey.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 buttonGetKey.BackgroundTransparency = 1.000
